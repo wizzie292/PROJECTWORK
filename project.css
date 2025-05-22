@@ -1,0 +1,55 @@
+body {
+  background-color: rgba(222, 184, 135, 0.24);
+  margin: 0px;
+  padding: 30px 50px;
+}
+.main-div {
+  text-align: left;
+  justify-content: left;
+  width: 50%;
+  height: 80%;
+  margin: 10% auto;
+  padding: 10px 30px;
+  background-color: white;
+  border-radius: 15px;
+  font-family: tahoma;
+  color: grey;
+  font-size: 20px;
+  line-height: 35px;
+}
+img {
+    width: 100%;
+    margin: 10px auto;
+    display: block;
+    border-radius: 10px;
+    
+
+}
+
+h1 {
+  color: black;
+  font-weight: 900;
+}
+h2 {
+  color: brown;
+}
+h3 {
+  color: rgba(206, 54, 206, 0.829)
+}
+.sub-div {
+  background-color: rgba(255, 192, 203, 0.116);
+  padding: 10px 20px;
+  margin: 10px 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th,
+td{
+    border-bottom: 1.5px solid gray;
+}
+tfoot td {
+    border-bottom: 0px;
+}
+
